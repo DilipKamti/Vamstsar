@@ -8,3 +8,15 @@ I have a high-speed broadband connection (Broadband) : (Yes/No)
 I am okay with the CTC offered (3LPA) by the organization: (Yes/No)
 Availability to join if selected: (In Days)
 I am okay with working from office in Hyderabad: (Yes/No)
+
+
+My Response
+
+Github link : https://github.com/DilipKamti
+
+I have completed my Graduation and have no exams pending: (No)
+I have my personal Laptop/ Computer with a working Webcam: (Yes)
+I have a high-speed broadband connection (Broadband) : (Yes)
+I am okay with the CTC offered (3LPA) by the organization: (Yes)
+Availability to join if selected: (I can join immediately if i can get off during my semester exam)
+I am okay with working from office in Hyderabad: (No)
